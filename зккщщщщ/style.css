@@ -1,0 +1,97 @@
+.box {
+  position: relative;
+  width: 1225px;
+  height: 534px;
+}
+
+.box .section {
+  position: fixed;
+  width: 1225px;
+  height: 534px;
+  top: 0;
+  left: 0;
+}
+
+.box .a-new-way {
+  position: absolute;
+  width: 485px;
+  height: 333px;
+  top: 94px;
+  left: 744px;
+}
+
+.box .learn-more-btn {
+  position: absolute;
+  width: 166px;
+  height: 60px;
+  top: 175px;
+  left: 0;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 164px;
+  height: 60px;
+  top: 280px;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 164px;
+  height: 48px;
+  top: 6px;
+  left: 0;
+  background-color: #fb8f1d;
+  border-radius: 8px;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  height: 60px;
+  top: 0;
+  left: 39px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.box .div {
+  position: absolute;
+  width: 481px;
+  top: 0;
+  left: 0;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.box .for-decades {
+  position: absolute;
+  width: 450px;
+  top: 120px;
+  left: 0;
+  font-family: "Muli-Light", Helvetica;
+  font-weight: 300;
+  color: #7c7987;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.box .thousand {
+  position: absolute;
+  width: 642px;
+  height: 534px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
